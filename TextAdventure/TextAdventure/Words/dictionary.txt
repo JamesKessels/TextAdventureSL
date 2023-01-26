@@ -1,0 +1,25 @@
+﻿walk, verb, 
+jump, verb, 
+left, adverb, direction
+right, adverb, direction
+up, adverb, direction
+down, adverb, direction
+north, adverb, direction
+east, adverb, direction
+south, adverb, direction
+west, adverb, direction
+northwest, adverb, direction
+northeast, adverb, direction
+southwest, adverb, direction
+southeast, adverb, direction
+red, adjective, color
+blue, adjective, color
+green, adjective, color
+yellow, adjective, color
+orange, adjective, color
+purple, adjective, color
+black, adjective, color
+white, adjective, color
+brown, adjective, color
+gray, adjective, color
+grey, adjective, color

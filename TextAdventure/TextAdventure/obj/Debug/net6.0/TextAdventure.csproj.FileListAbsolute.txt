@@ -1,0 +1,15 @@
+C:\Users\Dashi\OneDrive - SintLucas\Leerjaar 2\Programming\Periode 2\FinalAssignment\TextAdventure\TextAdventure\bin\Debug\net6.0\TextAdventure.exe
+C:\Users\Dashi\OneDrive - SintLucas\Leerjaar 2\Programming\Periode 2\FinalAssignment\TextAdventure\TextAdventure\bin\Debug\net6.0\TextAdventure.deps.json
+C:\Users\Dashi\OneDrive - SintLucas\Leerjaar 2\Programming\Periode 2\FinalAssignment\TextAdventure\TextAdventure\bin\Debug\net6.0\TextAdventure.runtimeconfig.json
+C:\Users\Dashi\OneDrive - SintLucas\Leerjaar 2\Programming\Periode 2\FinalAssignment\TextAdventure\TextAdventure\bin\Debug\net6.0\TextAdventure.dll
+C:\Users\Dashi\OneDrive - SintLucas\Leerjaar 2\Programming\Periode 2\FinalAssignment\TextAdventure\TextAdventure\bin\Debug\net6.0\TextAdventure.pdb
+C:\Users\Dashi\OneDrive - SintLucas\Leerjaar 2\Programming\Periode 2\FinalAssignment\TextAdventure\TextAdventure\obj\Debug\net6.0\TextAdventure.csproj.AssemblyReference.cache
+C:\Users\Dashi\OneDrive - SintLucas\Leerjaar 2\Programming\Periode 2\FinalAssignment\TextAdventure\TextAdventure\obj\Debug\net6.0\TextAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dashi\OneDrive - SintLucas\Leerjaar 2\Programming\Periode 2\FinalAssignment\TextAdventure\TextAdventure\obj\Debug\net6.0\TextAdventure.AssemblyInfoInputs.cache
+C:\Users\Dashi\OneDrive - SintLucas\Leerjaar 2\Programming\Periode 2\FinalAssignment\TextAdventure\TextAdventure\obj\Debug\net6.0\TextAdventure.AssemblyInfo.cs
+C:\Users\Dashi\OneDrive - SintLucas\Leerjaar 2\Programming\Periode 2\FinalAssignment\TextAdventure\TextAdventure\obj\Debug\net6.0\TextAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Dashi\OneDrive - SintLucas\Leerjaar 2\Programming\Periode 2\FinalAssignment\TextAdventure\TextAdventure\obj\Debug\net6.0\TextAdventure.dll
+C:\Users\Dashi\OneDrive - SintLucas\Leerjaar 2\Programming\Periode 2\FinalAssignment\TextAdventure\TextAdventure\obj\Debug\net6.0\refint\TextAdventure.dll
+C:\Users\Dashi\OneDrive - SintLucas\Leerjaar 2\Programming\Periode 2\FinalAssignment\TextAdventure\TextAdventure\obj\Debug\net6.0\TextAdventure.pdb
+C:\Users\Dashi\OneDrive - SintLucas\Leerjaar 2\Programming\Periode 2\FinalAssignment\TextAdventure\TextAdventure\obj\Debug\net6.0\TextAdventure.genruntimeconfig.cache
+C:\Users\Dashi\OneDrive - SintLucas\Leerjaar 2\Programming\Periode 2\FinalAssignment\TextAdventure\TextAdventure\obj\Debug\net6.0\ref\TextAdventure.dll

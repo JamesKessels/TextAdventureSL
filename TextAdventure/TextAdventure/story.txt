@@ -1,0 +1,57 @@
+﻿#SCENE 0#
+go east / 01
+go west / 02
+
+start
+You stand in the middle of a field.
+Before you are two paths.
+Where do you wish to go: east or west?
+end
+
+#SCENE 01#
+go in / 011
+stay out / 012
+
+start
+At the end of the path is a small house.
+The door seems to be open.
+What do you do: stay in or go out?
+end
+
+#SCENE 011#
+turn on light / 0111
+
+start
+You enter the house. It's rather dark inside.
+What do you do?
+end
+
+#SCENE 012#
+
+
+start
+
+
+
+
+
+
+
+#SCENE 02#
+fb -- You have no choice.
+jump in / 02T
+
+start
+At the end of this path you find a deep-looking pit.
+A voice deep inside beckons you to jump.
+What do you do: jump in?
+end
+
+#SCENE 02T#
+none / 0
+
+start
+You fall for a long time.
+Slowly but surely, the darkness shrinks.
+You land on your feet, completely unharmed, and check your surroundings.
+end
